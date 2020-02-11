@@ -1,0 +1,55 @@
+[{
+        "id": 1,
+        "name": "First Cake",
+        "imageUrl": "https://source.unsplash.com/4rfVL3NNGrA/800x600",
+        "yumFactor": 4,
+        "comments": [
+            "superb", "delicious cake!"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Second Cake",
+        "imageUrl": "https://source.unsplash.com/tW0Ix_Ajg6Y/800x600",
+        "yumFactor": 3,
+        "comments": [
+            "tasty"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Third Cake",
+        "imageUrl": "https://source.unsplash.com/idTwDKt2j2o/800x600",
+        "yumFactor": 2,
+        "comments": [
+            "superb", "delicious cake!"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Fourth Cake",
+        "imageUrl": "https://source.unsplash.com/yHQfZ9TuZn4/800x600",
+        "yumFactor": 5,
+        "comments": [
+            "superb", "delicious cake!"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Fifth Cake",
+        "imageUrl": "https://source.unsplash.com/aiIANaSK9DQ/800x600",
+        "yumFactor": 4,
+        "comments": [
+            "superb", "delicious cake!"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Sixth Cake",
+        "imageUrl": "https://source.unsplash.com/Ltv7a5m8i4c/800x600",
+        "yumFactor": 5,
+        "comments": [
+            "superb", "delicious cake!"
+        ]
+    }
+]

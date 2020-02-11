@@ -1,0 +1,12 @@
+{
+  "name": "react-bakery",
+  "version": "1.0.0",
+  "description": "full stack app for a bakery",
+  "main": "index.js",
+  "scripts": {
+    "start": "(cd ./cakeshop && npm run full-app)",
+    "set-up": "(cd ./cakeshop && npm install && cd ..) & (cd ./express-server && npm install && cd ..)"
+  },
+  "author": "",
+  "license": "ISC"
+}
